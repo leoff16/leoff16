@@ -1,1 +1,4 @@
 # leoff16
+🇺🇾 ✨ Hola, bienvenido a mi perfil 👋 🇺🇾
+
+Me gusta la programacion, especialmente en el lenguaje PYTHON 🐍
