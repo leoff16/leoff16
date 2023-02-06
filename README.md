@@ -9,3 +9,4 @@ Me gusta la programacion, especialmente en el lenguaje <img src="https://img.shi
 
 Me gusta el :soccer:
 
+Fanatico de  Glorioso **C.N.de.F** :red_circle: :large_blue_circle: :white_circle:
