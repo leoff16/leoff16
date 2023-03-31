@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-olivera-7049a990/)
 
 ## GitHub Stats:
-![Leo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoff16&show_icons=true&theme=dracula&count_private=true)
+![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leoff16&show_icons=true&theme=dracula&count_private=true)
 
 
 
