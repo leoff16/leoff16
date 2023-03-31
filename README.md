@@ -1,5 +1,5 @@
 # leoff16
-🇺🇾 ✨ Hola, bienvenido a mi perfil 👋 🇺🇾
+# 🇺🇾 ✨ Hola, bienvenido a mi perfil 👋 🇺🇾
 
 ## Mis Canales:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leolivera16?igshid=ZDdkNTZiNTM=)
@@ -28,6 +28,6 @@
 </div><br/>
 
 
-# Me gusta el ⚽
+## Me gusta el ⚽
 
-## Fanatico de  Glorioso **C.N.de.F** 🔴🔵⚪
+## Fanatico del Glorioso **C.N.de.F** 🔴🔵⚪
